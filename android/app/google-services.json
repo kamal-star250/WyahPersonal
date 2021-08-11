@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255808491933",
+    "project_id": "while-you-are-here",
+    "storage_bucket": "while-you-are-here.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255808491933:android:5671b8ca96dd7488e7df74",
+        "android_client_info": {
+          "package_name": "com.wyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255808491933-fgi5o7pdvjr13r4vkagopgehg9u0j3ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbZvI2Ho-fDGa9CTtGOXdMg7P_tNHsNJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255808491933-fgi5o7pdvjr13r4vkagopgehg9u0j3ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
